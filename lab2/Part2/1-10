@@ -1,0 +1,11 @@
+1. echo $0
+2. env | less
+3. $PS1 = 
+   $PS2 = 
+4. cd $HOME && cat /etc/passwd
+5. echo "Введите комманду" && read INPUTED && if (test ${INPUTED}); then ${INPUTED}; else echo "Net"; fi
+6. ./6
+7. env > envs
+8. cd $HOME && cat /etc/passwd | sort > passwd.orig
+9. echo "maksim:x:12345:12345:home/maksim:/usr/bin/zsh" >> passwd.orig
+10. cat ~/.bash_profile

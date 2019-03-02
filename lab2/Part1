@@ -1,0 +1,15 @@
+1. passwd
+2. mount
+3. mkdir
+4. tree ~/cat1
+5. тупо удалить одиннаковые файлы
+6. rm -rf cat1/cat8/sss
+7. file?
+f??*
+???
+a?ks
+8. cp ~/.b* ~/cat1/cat8
+9. chmod +r ~/cat1/cat8/.b*
+chmod -R 754 ~/cat/cat2/cat5
+10. tree cat1
+11. echo $0
